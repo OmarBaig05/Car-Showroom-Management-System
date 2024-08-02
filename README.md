@@ -74,3 +74,7 @@ Follow the installation
 Follow the prompts and menus within the application.
 Enjoy the experience provided by the Car showroom Management System.
 
+# DEvelopers
+
+#### A big thanks to my team for working along with me in this project.
+
