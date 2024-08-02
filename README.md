@@ -1,5 +1,8 @@
 # dsafinalproject-PID07
 
+## I along with my group members developed this Showroom Management System
+#### Where My contribution includes (Implementing the Data Structures that includes, Hashtable, BST, Sorting Algorithms, File Handling, Tress and also provided some assistance in GUI).
+
 # Car Showroom Management System
 
 ## Overview
